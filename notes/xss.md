@@ -4,8 +4,8 @@
 
 I liked those challenges, as it's both simple and tricky to distinguish "reflected XSS" from the other XSS challenge (moderate diffulty):
 
-http://localhost:3000/#/track-result?id=%3Ciframe%20src%3D%22javascript:alert(%60xss%60)%22%3E
-http://localhost:3000/#/search?q=%3Ciframe%20src%253D%22javascript:alert(%60xss%60)%22%3E
+* http://localhost:3000/#/track-result?id=%3Ciframe%20src%3D%22javascript:alert(%60xss%60)%22%3E
+* http://localhost:3000/#/search?q=%3Ciframe%20src%253D%22javascript:alert(%60xss%60)%22%3E
 
 ## Tough challenges
 
