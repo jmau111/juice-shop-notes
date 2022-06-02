@@ -14,7 +14,7 @@ If you're stucked, give up for today and go back tomorrow or another day. I beli
 
 Coding challenges are a great support to learn how to secure a flawed app.
 
-Best documentation is OWASP itself, but you can find hints elsewhere...
+Best documentation is OWASP itself, but you can find hints elsewhere.
 
 ## TODO
 
