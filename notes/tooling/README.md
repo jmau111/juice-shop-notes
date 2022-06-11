@@ -34,4 +34,4 @@ On Kali, it's the best alternative to keepass2 to open the .kdbx file.
 
 ## Insomnia
 
-As HTTP client.
+As [HTTP client](insomnia.json).

@@ -19,5 +19,5 @@ Best documentation is OWASP itself, but you can find hints elsewhere.
 ## TODO
 
 * 3 4-stars challenges
-* 4 5-stars challenges
-* 10 6-stars challenges
+* 3 5-stars challenges
+* 9 6-stars challenges
