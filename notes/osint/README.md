@@ -27,7 +27,7 @@ We get more info in additional hints:
 
 Both terms respect that condition. Like in other challenges, the password is probably tweaked to make it harder to guess. For example, a "3" for a "e", a "0" for a "o", a "4" for a "a", and so on.
 
-The best approach is to build you own custom wordlist with different variations for each terms:
+The best approach is to build your own custom wordlist with different variations for each terms:
 
 * numbers for letters
 * uppercases and lowercases
