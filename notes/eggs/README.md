@@ -14,7 +14,7 @@ It gives:
 /gur/qrif/ner/fb/shaal/gurl/uvq/na/rnfgre/rtt/jvguva/gur/rnfgre/rtt
 ```
 
-However, you won't solve the challenge by going to the above URL. It needs to be decrypted. I really appreciated the several layers of encoding. CTFs rarely gives you such information for free.
+However, you won't solve the challenge by going to the above URL. It needs to be decrypted. I really appreciated the several layers of encoding. CTFs rarely give you such information for free.
 
 You sometimes have to base64decode several times in a row to get the final string. Here, it's not the case, it's a rot13 cypher:
 
