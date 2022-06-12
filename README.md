@@ -21,3 +21,7 @@ Best documentation is OWASP itself, but you can find hints elsewhere.
 * 3 4-stars challenges
 * 3 5-stars challenges
 * 9 6-stars challenges
+
+## Current target
+
+=> challenge 999
