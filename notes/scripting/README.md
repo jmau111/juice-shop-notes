@@ -31,3 +31,11 @@ There's a list of outdated coupons in `/ftp` (another challenge). The coupon are
 _N.B: `z85` is also in `package.json.bak`_
 
 There are online decoders for that. You get a general pattern: MONTH YEAR PERCENT (MMMYY-%). It's then possible to forge a custom coupon to pass an order and solve the challenge.
+
+### 999
+
+The score board uses hashid to hash the `continue-code` that determines your progression. There's also an insecure REST endpoint where you can send a request to modify data.
+
+In addition, the salt used is the one provided by Hashids.org as example and the alphabet is the default. Only the minimum length is modified:
+
+[See the demo](999/999.html)

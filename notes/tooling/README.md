@@ -28,7 +28,7 @@ ZAP by OWASP can run analysis and quick scans, which may speed up the hack here 
 
 `sudo apt install exiftool`
 
-## KeypassXC
+## KeepassXC
 
 On Kali, it's the best alternative to keepass2 to open the .kdbx file.
 

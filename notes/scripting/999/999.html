@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<title>Challenge 999 - Juice Shop Notes</title>
+    <meta charset="utf-8">
+	</head>
+	<body>
+		<h1>Challenge 999</h1>
+		<noscript>Enable JavaScript please.</noscript>
+		<div id="num"></div>
+		<div id="result"></div>
+		<script src="hashids.min.js"></script>
+		<script>
+		const IMPORTANT = 60
+		const hashids = new Hashids("this is my salt", IMPORTANT, "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"), id = hashids.encode(999), num = hashids.decode(id);
+		const r = document.getElementById("result");
+		const n = document.getElementById("num");
+		r.innerHTML = "id ___ " + id
+		n.innerHTML = "num ___ " + num
+		</script>
+	</body>
+</html>

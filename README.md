@@ -30,10 +30,6 @@ _* Feel free to disagree with me, but I don't see how someone can solve some cha
 
 ## TODO
 
-* 3 4-stars challenges
-* 3 5-stars challenges
-* 9 6-stars challenges
-
-## Current target
-
-=> challenge 999
+* 2 4-stars challenges
+* 2 5-stars challenges
+* 7 6-stars challenges
